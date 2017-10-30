@@ -6,6 +6,7 @@ MarkupSafe==1.0
 numpy==1.13.3
 pandas==0.20.3
 python-dateutil==2.6.1
+python-env==1.0.0
 pytz==2017.2
 six==1.11.0
 Werkzeug==0.12.2
