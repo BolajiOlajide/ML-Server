@@ -1,5 +1,6 @@
 *.pyc
 __pycache__/
+input_data.json
 db.sqlite3
 .env
 output_data.json
