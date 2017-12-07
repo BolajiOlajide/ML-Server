@@ -32,3 +32,15 @@ The following Endpoints are available:
   ]
 }
 ```
+
+###### POST HTTP Request
+-   `POST /login`
+`INPUT`: As defined in [input_data.json](https://github.com/BolajiOlajide/ML-Server/blob/master/input_data.json)
+    ###### HTTP Response
+-   HTTP Status: `200: OK`
+-   JSON data
+```json
+{
+  "openid": "<open-id>"
+}
+```

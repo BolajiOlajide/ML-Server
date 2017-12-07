@@ -4,3 +4,4 @@ input_data.json
 db.sqlite3
 .env
 output_data.json
+tmp/
